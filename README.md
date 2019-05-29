@@ -2,7 +2,7 @@
 
 Implementation of various reinforcement learning algorithms in the context of a course assignment.
 
-Many of these algorithms require [HFO](https://github.com/LARG/HFO) to run.
+Requires installation of [HFO](https://github.com/LARG/HFO) to run.
 
 The algorithms implemented are the following:
  
