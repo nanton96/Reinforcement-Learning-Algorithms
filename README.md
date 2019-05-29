@@ -11,10 +11,9 @@ The algorithms implemented are the following:
 * SARSA
 * Q-Learning
 * Deep Reinforcement Learning
-
-** Asynchronous Q-learning using deep neural network function approximation [**Mnih et al., 2016**](https://arxiv.org/pdf/1602.01783.pdf)
+    * Asynchronous Q-learning using deep neural network function approximation [**Mnih et al., 2016**](https://arxiv.org/pdf/1602.01783.pdf)
 
 * Multi-Agent Learning
-** Independent Q-Learning
-** Joint Action Learning (table 4 in [**Bowling and Veloso, 2001**](http://www.cs.cmu.edu/~mmv/papers/02aij-mike.pdf))
-** Wolf PHC [**Bowling and Veloso, 2001**](http://www.cs.cmu.edu/~mmv/papers/01ijcai-mike.pdf)
+    * Independent Q-Learning
+    * Joint Action Learning (table 4 in [**Bowling and Veloso, 2001**](http://www.cs.cmu.edu/~mmv/papers/02aij-mike.pdf))
+    * Wolf PHC [**Bowling and Veloso, 2001**](http://www.cs.cmu.edu/~mmv/papers/01ijcai-mike.pdf)
