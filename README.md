@@ -16,4 +16,4 @@ The algorithms implemented are the following:
 * Multi-Agent Learning
     * Independent Q-Learning
     * Joint Action Learning (table 4 in [**Bowling and Veloso, 2001**](http://www.cs.cmu.edu/~mmv/papers/02aij-mike.pdf))
-    * Wolf PHC [**Bowling and Veloso, 2001**](http://www.cs.cmu.edu/~mmv/papers/01ijcai-mike.pdf)
+    * Wolf PHC (can be found in [**Bowling and Veloso, 2001**](http://www.cs.cmu.edu/~mmv/papers/01ijcai-mike.pdf))
